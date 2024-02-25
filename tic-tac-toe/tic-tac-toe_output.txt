@@ -1,0 +1,108 @@
+PS C:\Users\Anu\OneDrive\Desktop\front end>  c:; cd 'c:\Users\Anu\OneDrive\Desktop\front end'; & 'c:\Users\Anu\AppData\Local\Microsoft\WindowsApps\python3.11.exe' 'c:\Users\Anu\.vscode\extensions\ms-python.debugpy-2024.0.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '51844' '--' 'c:\Users\Anu\OneDrive\Desktop\front end\tic-tac-toe.py' 
+  |   |  
+---------
+  |   |
+---------
+  |   |
+---------
+Player X, enter row (0, 1, 2): 0
+Player X, enter column (0, 1, 2): 0
+X |   |
+---------
+  |   |
+---------
+  |   |
+---------
+Player O, enter row (0, 1, 2): 1
+Player O, enter column (0, 1, 2): 1
+X |   |
+---------
+  | O |
+---------
+  |   |
+---------
+Player X, enter row (0, 1, 2): 2
+Player X, enter column (0, 1, 2): 2
+X |   |
+---------
+  | O |
+---------
+  |   | X
+---------
+Player O, enter row (0, 1, 2): 2
+Player O, enter column (0, 1, 2): 1
+X |   |
+---------
+  | O |
+---------
+  | O | X
+---------
+Player X, enter row (0, 1, 2): 1
+Player X, enter column (0, 1, 2): 2
+X |   |
+---------
+  | O | X
+---------
+  | O | X
+---------
+Player O, enter row (0, 1, 2): 2
+Player O, enter column (0, 1, 2): 1
+Cell already taken. Try again.
+X |   |
+---------
+  | O | X
+---------
+  | O | X
+---------
+Player O, enter row (0, 1, 2): 1
+Player O, enter column (0, 1, 2): 2
+Cell already taken. Try again.
+X |   |
+---------
+  | O | X
+---------
+  | O | X
+---------
+Player O, enter row (0, 1, 2): 1
+Player O, enter column (0, 1, 2): 1
+Cell already taken. Try again.
+X |   |
+---------
+  | O | X
+---------
+  | O | X
+---------
+Player O, enter row (0, 1, 2): 2
+Player O, enter column (0, 1, 2): 0
+X |   |
+---------
+  | O | X
+---------
+O | O | X
+---------
+Player X, enter row (0, 1, 2): 1
+Player X, enter column (0, 1, 2): 0
+X |   |
+---------
+X | O | X
+---------
+O | O | X
+---------
+Player O, enter row (0, 1, 2): 2
+Player O, enter column (0, 1, 2): 0
+Cell already taken. Try again.
+X |   |
+---------
+X | O | X
+---------
+O | O | X
+---------
+Player O, enter row (0, 1, 2): 0
+Player O, enter column (0, 1, 2): 2
+X |   | O
+---------
+X | O | X
+---------
+O | O | X
+---------
+Player O wins!
